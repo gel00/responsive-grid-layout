@@ -68,7 +68,7 @@ main .education {
   height: 60px;
 }
 
-@media screen and (max-width: 679px) {
+@media screen and (max-width: 550px) {
   header, main {
     width: 100%;
     margin: 10px 0;
@@ -82,7 +82,7 @@ main .education {
     display: none;
   }
 }
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 960px) {
   header {
     grid-template-rows: 2fr 1fr;
   }
